@@ -1,0 +1,20 @@
+body {
+    font-family: "Ubuntu", sans-serif;
+}
+.container-fluid {
+    min-height: 100vh;
+    background-color: #071952;
+}
+.container {
+    min-height: 100vh;
+    color: white;
+}
+
+img {
+    border: 5px double #B1AFFF;
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+}
